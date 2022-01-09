@@ -1,1 +1,2 @@
 This is a git learning experiment.
+This is a new paragraph on top of the main chapter.
